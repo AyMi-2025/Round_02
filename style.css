@@ -114,3 +114,14 @@ footer{
 .1,.2,.3,.4{
   display:flex;
 }
+
+.next{
+  display:flex;
+  justify-content:center;
+  margin-left:auto;
+  align-items:center;
+  text-decoration:none;
+  font-size:20px;
+  padding:18px;
+  
+}
