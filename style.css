@@ -48,8 +48,8 @@ nav h4:hover{
 }
 
 #image{
-  width: 60%;
-  margin-left: 40%;
+  width: 90%;
+  margin-left: 7%;
   margin-top: 7%;
 }
 
@@ -64,12 +64,12 @@ nav h4:hover{
 .first{
   color: white;
   margin-left:9%;
-  width: 100%;
   display: flex;
 }
 
 #ss{
   color: rgb(204, 33, 33);
+  margin-left: 9px;
   text-decoration: line-through;
 }
 
