@@ -52,24 +52,34 @@ This project is being developed as part of a hackathon by **Team Code Fathers**.
 
 The project is currently under active development.
 
-### ✅ Current Progress
+### ✅ Completed
 
 - Project planning and research
 - UI/UX research and competitor analysis
 - Information architecture planning
 - Navbar redesign
+- Brand logo integrated into the navigation
+- Fully functional navigation links
 - Landing page redesign
+- Hero section completed
+- Truth bar section implemented below the hero
 - Building landing page sections
 - Designing modern product cards
 - Creating the product catalogue
 - Collecting detailed headphone specifications
 - Structuring product metadata
-- Product image collection *(In Progress)*
-- Component development *(In Progress)*
 - Responsive layout improvements
 - Bug fixing and debugging
 - Codebase organization and cleanup
 
+### 🚧 In Progress
+
+- Product image collection
+- Component development
+- Categories page development
+- Products page development
+- Continuous UI/UX refinements and visual polish
+- 
 ---
 
 ## 🛠 Tech Stack
@@ -83,7 +93,6 @@ The project is currently under active development.
 - [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 - [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 
-
 ---
 
 ## 📂 Repository Structure
@@ -91,16 +100,23 @@ The project is currently under active development.
 ```text
 Round_02/
 │
+├── .git/
+│
 ├── img/
 │   ├── Jcally-JM6PRO2/
 │   ├── MoonDropChu2/
 │   ├── Sennheiser-HDB630/
-│   └── TanzuWarrrSG2/
+│   ├── TanzuWarrrSG2/
+│   └── Logo.png.png
 │
+├── categories.html
 ├── index.html
-├── style.css
+├── next.html
+├── product.html
+├── products.md
+├── README.md
 ├── script.js
-└── README.md
+└── style.css
 ```
 
 ---
@@ -138,14 +154,33 @@ Simply open **index.html** in your preferred browser.
 
 ## 👥 Team
 
-### **Team Code Fathers**
+<table>
+<tr>
+<td align="center" width="25%">
+<b>Pratyush Kapoor</b><br/>
+<sub>Team Lead</sub><br/><br/>
+<a href="https://github.com/Crimson561">GitHub</a> · <a href="https://www.linkedin.com/in/pratyush-kapoor-9ab828412">LinkedIn</a>
+</td>
 
-| Member | Role |
-|---------|------|
-| **Pratyush Kapoor** | Team Lead |
-| **Ayan Maiti** | Lead Frontend Developer |
-| **Anik Ghosh** | Documentation & Backend |
-| **Sehjal Saxena** | Product Lead |
+<td align="center" width="25%">
+<b>Ayan Maiti</b><br/>
+<sub>Lead Frontend Developer</sub><br/><br/>
+<a href="https://github.com/AyMi-2025">GitHub</a> · <a href="https://www.linkedin.com/in/ayan-maiti-am05052008">LinkedIn</a>
+</td>
+
+<td align="center" width="25%">
+<b>Anik Ghosh</b><br/>
+<sub>Dcoumentation & Backend</sub><br/><br/>
+<a href="https://github.com/anik-ghosh-io">GitHub</a> · <a href="https://www.linkedin.com/in/anik-ghosh-19571841b">LinkedIn</a>
+</td>
+
+<td align="center" width="25%">
+<b>Sehjal Saxena</b><br/>
+<sub>Product Lead</sub><br/><br/>
+<a href="https://github.com/sehjalsaxena">GitHub</a> · <a href="https://linkedin.com/in/sehjalsaxena">LinkedIn</a>
+</td>
+</tr>
+</table>
 
 ---
 
