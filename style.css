@@ -114,3 +114,151 @@ footer{
 .1,.2,.3,.4{
   display:flex;
 }
+
+/* ===========================
+   PRODUCTS PAGE
+=========================== */
+
+.category-hero{
+    text-align:center;
+    color:white;
+    padding:60px 10% 30px;
+}
+
+.category-hero h1{
+    font-size:52px;
+    margin-bottom:15px;
+}
+
+.category-hero p{
+    color:#bdbdbd;
+    font-size:18px;
+}
+
+/* Search */
+
+.search-bar{
+    width:70%;
+    margin:30px auto;
+    display:flex;
+    justify-content:center;
+    gap:12px;
+}
+
+.search-bar input{
+    flex:1;
+    padding:14px;
+    font-size:16px;
+    border:none;
+    border-radius:8px;
+    outline:none;
+    background:#1f1f1f;
+    color:white;
+}
+
+.search-bar button{
+    padding:14px 20px;
+}
+
+/* Filters */
+
+.filter-bar{
+    width:90%;
+    margin:30px auto 50px;
+    display:flex;
+    justify-content:center;
+    flex-wrap:wrap;
+    gap:15px;
+}
+
+.filter-bar button{
+    padding:10px 22px;
+    border-radius:25px;
+    font-size:15px;
+    transition:.3s;
+}
+
+.filter-bar button:hover{
+    transform:translateY(-2px);
+}
+
+/* Product Grid */
+
+.products{
+    width:90%;
+    margin:auto;
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
+    gap:30px;
+}
+
+/* Product Card */
+
+.product-card{
+    background:#181818;
+    border-radius:15px;
+    padding:20px;
+    text-align:center;
+    transition:.3s;
+    border:1px solid #2a2a2a;
+}
+
+.product-card:hover{
+    transform:translateY(-8px);
+    border-color:rgb(0,151,178);
+    box-shadow:0 0 18px rgba(0,151,178,.25);
+}
+
+.product-card img{
+    width:100%;
+    border-radius:10px;
+    margin-bottom:20px;
+}
+
+.product-card h3{
+    color:white;
+    margin-bottom:10px;
+}
+
+.product-card p{
+    color:#FFD54A;
+    margin-bottom:10px;
+}
+
+.product-card h2{
+    color:rgb(66,178,79);
+    margin-bottom:18px;
+}
+
+.product-card button{
+    width:100%;
+    padding:12px;
+}
+
+/* Footer */
+
+footer{
+    margin-top:80px;
+}
+
+/* Mobile */
+
+@media(max-width:768px){
+
+.search-bar{
+    width:90%;
+}
+
+.category-hero h1{
+    font-size:38px;
+}
+
+.filter-bar{
+    gap:10px;
+}
+
+.filter-bar button{
+    padding:8px 16px;
+}
+
+}
