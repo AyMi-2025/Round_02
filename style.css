@@ -48,8 +48,8 @@ nav h4:hover{
 }
 
 #image{
-  width: 60%;
-  margin-left: 40%;
+  width: 50%;
+  margin-left: 30%;
   margin-top: 7%;
 }
 
@@ -85,4 +85,9 @@ button:hover{
   cursor: pointer;
   background-color: rgb(34, 182, 34);
   color: rgb(227, 223, 223);
+}
+
+.ri-arrow-right-wide-line{
+  font-size: 40px;
+  color: white;
 }
