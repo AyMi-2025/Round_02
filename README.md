@@ -48,6 +48,21 @@ This project is being developed as part of a hackathon by **Team Code Fathers**.
 
 ---
 
+
+## Screenshots
+<br><br>
+
+![Screenshot1](https://cdn.discordapp.com/attachments/1521803468791218249/1528774371290906836/Screenshot_2026-07-20_201221.png?ex=6a5f8595&is=6a5e3415&hm=550450b97aa3d307f3b3d183c59151a6e36d4c0b3b1af0842b4c26929cc51955& "MoonDrop Chu 2")
+<br><br>
+
+![Screenshot2](https://cdn.discordapp.com/attachments/1521803468791218249/1528774371626320022/Screenshot_2026-07-20_201233.png?ex=6a5f8595&is=6a5e3415&hm=15d5edc5c0dd421477034c048cde2f1e5ffa12ca024a0b81caeca8958dba0f3f& "Products overview")
+<br><br>
+
+![Screenshot3](https://cdn.discordapp.com/attachments/1521803468791218249/1528774372054143006/Screenshot_2026-07-20_201243.png?ex=6a5f8595&is=6a5e3415&hm=8cfc727b57823cf3e7516295fa2f08f96dba75780dfc8812fd8b1d8006151eb5& "Products overview")
+<br><br>
+
+![Screenshot4](https://cdn.discordapp.com/attachments/1521803468791218249/1528774372402401470/Screenshot_2026-07-20_201303.png?ex=6a5f8595&is=6a5e3415&hm=34a5cdb2afb5f29f718db7a64b109989952978be10de1953785cb558727c6fe1& "Tanzu Warnr SG 2 Sage Edition")
+
 ## 🚧 Development Status
 
 The project is currently under active development.
@@ -79,7 +94,7 @@ The project is currently under active development.
 - Categories page development
 - Products page development
 - Continuous UI/UX refinements and visual polish
-- 
+
 ---
 
 ## 🛠 Tech Stack
