@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    outline:2px solid red;
 }
 
 body,html{
@@ -12,7 +11,7 @@ body,html{
 }
 
 nav{
-    background-color: rgb(108, 72, 25);
+    background-color: rgb(58, 212, 89);
     display: flex;
     height: 5%;
     align-items: center;
@@ -40,22 +39,23 @@ nav h4:hover{
 
 .description{
   margin-top:90px;
-<<<<<<< HEAD
   
 }
-.image{
-  margin-left:900px;
-  margin-bottom:900px;
+
+#image{
+  width: 60%;
+  margin-left: 30%;
 }
+
+
 .price{
   display: flex;
-  gap:5px;
-}
-=======
-} 
-
-.image{
-  margin-left:900px;
+  gap: 5px;
 }
 
->>>>>>> 6a7fa17a58de804905f999fd21ec303fc598eb42
+
+.first{
+  width: 90%;
+  display: flex;
+}
+
