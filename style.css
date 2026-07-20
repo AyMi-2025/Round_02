@@ -16,6 +16,24 @@ nav{
     height: 5%;
     align-items: center;
     justify-content: end;
-    gap: 2%;
+    gap: 5%;
     padding: 1%;
+}
+
+nav h4:hover{
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: 0.2s ease-in-out;
+}
+
+.center-section{
+    width: 30%;
+    display: flex;
+    gap: 6%;
+}
+
+.right-section{
+    width: 10%;
+    display: flex;
+    gap: 10%;
 }
