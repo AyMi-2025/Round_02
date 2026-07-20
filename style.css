@@ -44,7 +44,8 @@ nav h4:hover{
 
 #image{
   width: 60%;
-  margin-left: 30%;
+  margin-left: 40%;
+  margin-top: 7%;
 }
 
 
@@ -55,7 +56,11 @@ nav h4:hover{
 
 
 .first{
+  margin-left:9%;
   width: 90%;
   display: flex;
 }
 
+#ss{
+  text-decoration: line-through;
+}
